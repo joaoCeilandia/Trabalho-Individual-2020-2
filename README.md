@@ -1,3 +1,4 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/4f4264f846f56937ba9d/maintainability)](https://codeclimate.com/github/joaoCeilandia/Trabalho-Individual-2020-2/maintainability)
 # Trabalho Individual 2020.2
 
 
