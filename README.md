@@ -1,4 +1,5 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/4f4264f846f56937ba9d/maintainability)](https://codeclimate.com/github/joaoCeilandia/Trabalho-Individual-2020-2/maintainability)
+[![codecov](https://codecov.io/gh/joaoCeilandia/Trabalho-Individual-2020-2/branch/master/graph/badge.svg?token=HR3AQYIZWU)](https://codecov.io/gh/joaoCeilandia/Trabalho-Individual-2020-2)
 # Trabalho Individual 2020.2
 
 
