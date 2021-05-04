@@ -1,6 +1,6 @@
 FROM python:3.9.4
 
-RUN pip install psycopg2 djangorestframework django-cors-headers pylint
+RUN pip install psycopg2 djangorestframework django-cors-headers pylint coverage
 
 WORKDIR /backend
 
